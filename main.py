@@ -1,7 +1,6 @@
 import os
 import requests
 from datetime import datetime
-import time
 
 API_KEY = ''#                                                    <- API Key
 BASE_URL = 'http://<ip>:2283/api'#                               <- Immich URL
